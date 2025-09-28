@@ -1,4 +1,4 @@
-<div align="center">
+*<div align="center">
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/realvine)
   ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/realvine?style=social)
